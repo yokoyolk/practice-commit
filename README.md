@@ -1,1 +1,1 @@
-# practice-commit
+# Project Helper CLI
